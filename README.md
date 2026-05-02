@@ -41,4 +41,5 @@ IsActiveMember: actividad del cliente (1 - sí; 0 - no)
 EstimatedSalary: salario estimado
 
 - Objetivo
+
 Exited: El cliente se ha ido (1 - sí; 0 - no)
